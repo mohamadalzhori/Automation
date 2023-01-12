@@ -1,3 +1,6 @@
+# The aim of this script is to prepare a folder to be organized by another script called clean (Oh wait, may be I should merge them or make one call another)
+# This scripts goes into all subfolders and subfolders of subfolders etc. and moves all files back to the main directory
+
 import os
 import shutil
 import sys
