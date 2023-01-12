@@ -1,3 +1,5 @@
+# This is my first script, when run it takes one argument either a predefined keyword like "test" or a path to a folder to be cleaned
+# Cleaning here means organizing but "clean" is just easier :), files are organized into Documents, Videos, Pictures, Zips, Exe, and Others
 import os
 import sys
 
